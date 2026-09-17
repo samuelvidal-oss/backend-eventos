@@ -8,3 +8,5 @@ Proyecto backend desarrollado con Java y Spring Boot para la gestión de eventos
 
 ## Ejecución
 Ejecutar la clase principal de Spring Boot para iniciar el servidor en `http://localhost:8080`.
+
+## Evidencia Sprint 0 - BE Lead
